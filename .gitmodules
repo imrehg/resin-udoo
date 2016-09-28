@@ -1,0 +1,22 @@
+[submodule "layers/meta-resin"]
+	path = layers/meta-resin
+	url = https://github.com/resin-os/meta-resin.git
+[submodule "layers/oe-meta-go"]
+	path = layers/oe-meta-go
+	url = https://github.com/mem/oe-meta-go.git
+[submodule "layers/meta-udoo"]
+	path = layers/meta-udoo
+	url = https://github.com/graugans/meta-udoo.git
+        branch = jethro
+[submodule "layers/poky"]
+	path = layers/poky
+	url = https://git.yoctoproject.org/git/poky
+	branch = jethro
+[submodule "layers/meta-openembedded"]
+	path = layers/meta-openembedded
+	url = https://github.com/openembedded/meta-openembedded.git
+	branch = jethro
+[submodule "layers/meta-fsl-arm"]
+	path = layers/meta-fsl-arm
+	url = git://git.yoctoproject.org/meta-fsl-arm
+	branch = master
